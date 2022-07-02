@@ -1,4 +1,4 @@
-# co2eb48528f8da44f319682c6
+# bored bot API, single click to fetch random activity that change the text using textcontent
 
 ## About Scrimba
 
